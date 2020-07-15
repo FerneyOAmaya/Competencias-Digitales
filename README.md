@@ -19,6 +19,8 @@ Se incluyen conceptos, componentes y herramientas básicas. En esta sección se 
 
 2. [Visualización de datos](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/0_Visualizacion.ipynb)
 
+3. [Git y Github](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/0_GitGithub.pdf)
+
 ## 2. Nivel intermedio.
 
 Se incluyen elementos para lograr Explorar, Visualizar y Comunicar con los datos. En esta sección se tienen las siguientes ayudas didácticas:
