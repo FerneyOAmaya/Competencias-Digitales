@@ -29,3 +29,5 @@ Se incluyen elementos para lograr Explorar, Visualizar y Comunicar con los datos
 1. [Exploración de datos - Variabilidad](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/1_Exploracion_Variabilidad.ipynb)
 
 2. [Modelado y simulación de un fenómeno físico - Cohete vertical](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/Cohete.ipynb)
+
+3. [Modelado y simulación de un fenómeno físico - Caida en medio viscoso](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/Caida_friccion.ipynb)
