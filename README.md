@@ -31,3 +31,5 @@ Se incluyen elementos para lograr Explorar, Visualizar y Comunicar con los datos
 2. [Modelado y simulación de un fenómeno físico - Cohete vertical](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/Cohete.ipynb)
 
 3. [Modelado y simulación de un fenómeno físico - Caida en medio viscoso](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/Caida_friccion.ipynb)
+
+3. [Modelado y simulación de un fenómeno físico - Movimiento parabólico](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/Parabolico.ipynb)
