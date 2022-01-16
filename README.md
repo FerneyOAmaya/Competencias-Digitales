@@ -16,20 +16,23 @@ Para realizar las acciones anteriores se tienen varios niveles:
 ## 1. Nivel básico.
 
 Se incluyen conceptos, componentes y herramientas básicas. En esta sección se tienen las siguientes ayudas didácticas:
-1. [Introducción a Python](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/0_Python.ipynb)
 
-2. [Visualización de datos](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/0_Visualizacion.ipynb)
+1. [Primera página en Google Colaboratory](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/PrimeraPagina.ipynb)
 
-3. [Git y Github](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/0_GitGithub.pdf)
+2. [Introducción a Python](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/0_Python.ipynb)
+
+3. [Visualización de datos](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/0_Visualizacion.ipynb)
+
+4. [Git y Github](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/0_GitGithub.pdf)
 
 ## 2. Nivel intermedio.
 
 Se incluyen elementos para lograr Explorar, Visualizar y Comunicar con los datos. En esta sección se tienen las siguientes ayudas didácticas:
 
-1. [Exploración de datos - Variabilidad](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/1_Exploracion_Variabilidad.ipynb)
+1. [Exploración de datos - Variabilidad](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/1_Exploracion_Variabilidad.ipynb)
 
-2. [Modelado y simulación de un fenómeno físico - Cohete vertical](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/Cohete.ipynb)
+2. [Modelado y simulación de un fenómeno físico - Cohete vertical](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/Cohete.ipynb)
 
-3. [Modelado y simulación de un fenómeno físico - Caida en medio viscoso](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/Caida_friccion.ipynb)
+3. [Modelado y simulación de un fenómeno físico - Caida en medio viscoso](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/Caida_friccion.ipynb)
 
-3. [Modelado y simulación de un fenómeno físico - Movimiento parabólico](https://nbviewer.jupyter.org/github/FerneyOAmaya/DataLiteracy/blob/master/Parabolico.ipynb)
+3. [Modelado y simulación de un fenómeno físico - Movimiento parabólico](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/Parabolico.ipynb)
