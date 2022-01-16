@@ -23,7 +23,7 @@ Se incluyen conceptos, componentes y herramientas básicas. En esta sección se 
 
 3. [Visualización de datos](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/0_Visualizacion.ipynb)
 
-4. [Git y Github](https://colab.research.google.com/github/FerneyOAmaya/DataLiteracy/blob/master/0_GitGithub.pdf)
+4. [Git y Github](https://github.com/FerneyOAmaya/DataLiteracy/blob/master/0_GitGithub.pdf)
 
 ## 2. Nivel intermedio.
 
