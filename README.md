@@ -25,7 +25,9 @@ Se aborda la exploración, visualización y comunicación empleando datos. Se ti
 
 4. [Preparación de Datos](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/PreparacionDatos.ipynb)
 
-5. [SQL](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/SQL.ipynb)
+5. [Visualización con librerías de Python](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/Visualizacion.ipynb)
+
+6. [SQL](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/SQL.ipynb)
 
 
 ## Herramientas
