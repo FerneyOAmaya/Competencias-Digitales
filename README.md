@@ -17,9 +17,9 @@ Se aborda la exploración, visualización y comunicación empleando datos. Se ti
 
 ## Programación en Python
 
-1.  [Tutorial Google Colaboratory](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/GoogleColaboratory.ipynb)
+1. [Tutorial Google Colaboratory](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/GoogleColaboratory.ipynb)
 
-2.  [Introducción a Python](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/0_Python.ipynb)
+2. [Introducción a Python](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/0_Python.ipynb)
 
 3. [Librería Pandas](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/Pandas.ipynb)
 
