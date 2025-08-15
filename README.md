@@ -8,6 +8,16 @@ En esta página se encuentran diferentes libros en Google Colaboratory que tiene
 - Uso de herramientas: lenguaje de programación Python, Google Colaboratory, Git y Github.
 - Apoyo a la enseñanza de Ciencia Básica
 
+# Competencias Digitales
+
+El desarrollo de competencias (conocimientos, habilidades y actitudes) digitales permite acceder a información, producir e intercambiar contenido, fomentando la participación activa y comprometida en la deliberación pública y la toma de decisiones, además de usar y apropiar adecuadamente las tecnologías de la cuarta revolución industrial.
+
+En esta página se encuentran diferentes libros en Google Colaboratory que tienen como objetivo apoyar el desarrollo de competencias digitales:
+- Pensamiento computacional empleando Python
+- Programación en Python
+- Uso de herramientas: lenguaje de programación Python, Google Colaboratory, Git y Github.
+- Apoyo a la enseñanza de Ciencia Básica
+
 ## Pensamiento computacional
 Se aborda la exploración, visualización y comunicación empleando datos. Se tienen los siguientes cuadernos:
 
