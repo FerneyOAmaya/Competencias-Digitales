@@ -7,6 +7,7 @@
 ## Módulo 2: IA y Tecnología en el Aula
 - [Presentación](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Presentacion.pdf)
 - [Video de la Presentación](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Video.mp4)
+
 Actividades en el aula empleando tecnología se abordará en el Módulo 3.
 
 ## Módulo 3: STEM y Educación Inteligente en el aula
