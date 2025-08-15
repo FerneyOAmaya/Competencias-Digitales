@@ -1,12 +1,16 @@
 # Formación MOVA: Innovar para Transformar - STEM e Inteligencia Artificial en el Aula
 
+Al hacer click en los pdfs, se visualizarán visualizarlos en esta plataforma y descargarlos haciéndo click en el ícono de descarga en la parte superior derecha de la visualización del archivo.
+
+Al hacer click en los videos realizarán la descarga.
+
 ## Módulo 1: Herramientas y Retos actuales en la educación
 - [Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo1_Presentacion.pdf)
-- [Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master//Modulo1_Video.mp4)
+- [Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/raw/refs/heads/master/Modulo1_Video.mp4)
 
 ## Módulo 2: IA y Tecnología en el Aula
 - [Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Presentacion.pdf)
-- [Video de la Presentación](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Video.mp4)
+- [Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/raw/refs/heads/master/Modulo2_Video.mp4)
 
 Actividades en el aula empleando tecnología se abordará en el Módulo 3.
 
