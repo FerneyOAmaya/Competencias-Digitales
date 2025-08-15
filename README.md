@@ -5,11 +5,13 @@ Al hacer click en los enlaces de los pdfs, se visualizarán en esta plataforma y
 Al hacer click en los enlaces de los videos realizarán la descarga.
 
 ## Módulo 1: Herramientas y Retos actuales en la educación
-- [Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo1_Presentacion.pdf)
-- [Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/raw/refs/heads/master/Modulo1_Video.mp4)
+- [Visualizar Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo1_Presentacion.pdf)
+- [Descargar Presentación](https://raw.githubusercontent.com/FerneyOAmaya/Competencias-Digitales/master/Modulo1_Presentacion.pdf)
+- [Descargar Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/raw/refs/heads/master/Modulo1_Video.mp4)
 
 ## Módulo 2: IA y Tecnología en el Aula
-- [Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Presentacion.pdf)
+- [Visualizar Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Presentacion.pdf)
+- [Descargar Presentación](https://raw.githubusercontent.com/FerneyOAmaya/Competencias-Digitales/master/Modulo2_Presentacion.pdf)
 - [Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/raw/refs/heads/master/Modulo2_Video.mp4)
 
 Actividades en el aula empleando tecnología se abordará en el Módulo 3.
