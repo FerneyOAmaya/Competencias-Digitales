@@ -12,7 +12,7 @@ Al hacer click en los enlaces de los videos realizarán la descarga.
 ## Módulo 2: IA y Tecnología en el Aula
 - [Visualizar Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Presentacion.pdf)
 - [Descargar Presentación](https://raw.githubusercontent.com/FerneyOAmaya/Competencias-Digitales/master/Modulo2_Presentacion.pdf)
-- [Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/raw/refs/heads/master/Modulo2_Video.mp4)
+- [Descargar Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/raw/refs/heads/master/Modulo2_Video.mp4)
 
 Actividades en el aula empleando tecnología se abordará en el Módulo 3.
 
