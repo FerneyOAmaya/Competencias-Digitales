@@ -1,12 +1,16 @@
-# Competencias Digitales
+# Formación MOVA: Innovar para Transformar - STEM e Inteligencia Artificial en el Aula
 
-El desarrollo de competencias (conocimientos, habilidades y actitudes) digitales permite acceder a información, producir e intercambiar contenido, fomentando la participación activa y comprometida en la deliberación pública y la toma de decisiones, además de usar y apropiar adecuadamente las tecnologías de la cuarta revolución industrial.
+## Módulo 1: Herramientas y Retos actuales en la educación
+- [Presentación](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo1_Presentacion.pdf)
+- [Video de la Presentación](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo1_Video.mp4)
 
-En esta página se encuentran diferentes libros en Google Colaboratory que tienen como objetivo apoyar el desarrollo de competencias digitales:
-- Pensamiento computacional empleando Python
-- Programación en Python
-- Uso de herramientas: lenguaje de programación Python, Google Colaboratory, Git y Github.
-- Apoyo a la enseñanza de Ciencia Básica
+## Módulo 2: IA y Tecnología en el Aula
+- [Presentación](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Presentacion.pdf)
+- [Video de la Presentación](https://colab.research.google.com/github/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Video.mp4)
+Actividades en el aula empleando tecnología se abordará en el Módulo 3.
+
+## Módulo 3: STEM y Educación Inteligente en el aula
+Próximamente
 
 # Competencias Digitales
 
