@@ -1,20 +1,3 @@
-# Formación MOVA: Innovar para Transformar - STEM e Inteligencia Artificial en el Aula
-
-## Módulo 1: Herramientas y Retos actuales en la educación
-- [Visualizar Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo1_Presentacion.pdf)
-- [Descargar Presentación](https://raw.githubusercontent.com/FerneyOAmaya/Competencias-Digitales/master/Modulo1_Presentacion.pdf)
-- [Descargar Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/raw/refs/heads/master/Modulo1_Video.mp4)
-
-## Módulo 2: IA y Tecnología en el Aula
-- [Visualizar Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/blob/master/Modulo2_Presentacion.pdf)
-- [Descargar Presentación](https://raw.githubusercontent.com/FerneyOAmaya/Competencias-Digitales/master/Modulo2_Presentacion.pdf)
-- [Descargar Video de la Presentación](https://github.com/FerneyOAmaya/Competencias-Digitales/raw/refs/heads/master/Modulo2_Video.mp4)
-
-Actividades en el aula empleando tecnología se abordará en el Módulo 3.
-
-## Módulo 3: STEM y Educación Inteligente en el aula
-Próximamente
-
 # Competencias Digitales
 
 El desarrollo de competencias (conocimientos, habilidades y actitudes) digitales permite acceder a información, producir e intercambiar contenido, fomentando la participación activa y comprometida en la deliberación pública y la toma de decisiones, además de usar y apropiar adecuadamente las tecnologías de la cuarta revolución industrial.
